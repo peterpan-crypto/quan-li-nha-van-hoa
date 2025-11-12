@@ -1,0 +1,4 @@
+{
+  "_todo": "- Define event schema (id, title, start_time, end_time, resources, organizer).\n- Add sample events for testing.\n- Consider calendar export/import format (iCal).",
+  "lich": []
+}

@@ -1,0 +1,4 @@
+{
+  "_todo": "- Define data shape for ho_khau items (id, chu_ho, dia_chi, thanh_vien[]).\n- Decide storage: JSON file (current) vs sqlite/db.\n- Add sample records for testing.",
+  "ho_khau": []
+}
